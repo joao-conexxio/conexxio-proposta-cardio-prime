@@ -1,0 +1,308 @@
+{
+  "slug": "cardio-prime",
+  "negocio": {
+    "nome": "Cardio Prime",
+    "logo": "brand/logo.png",
+    "whatsapp": "5516982117674",
+    "unidades": [
+      {
+        "bairro": "Centro Médico do Ribeirão Shopping",
+        "endereco": "Av. Cel. Fernando Ferreira Leite, 1540, loja 05 – Jardim Califórnia, Ribeirão Preto – SP, 14026-900",
+        "telefone": "(16) 3505-2294",
+        "horario": "Segunda a sexta, 7h às 19h · Sábado, 7h às 13h"
+      }
+    ]
+  },
+  "marca": {
+    "brand": "#73292a",
+    "brand2": "#5c2122",
+    "ink": "#161616",
+    "bg": "#fefefe",
+    "pulse": "#b8282e",
+    "radius": "14px",
+    "registro": "clinico",
+    "fontDisplay": "Montserrat",
+    "fontBody": "Figtree",
+    "tomHero": "escuro",
+    "tomCorpo": "claro"
+  },
+  "motivo": "ecg",
+  "secoes": [
+    {
+      "id": "header",
+      "variant": "sticky-cta",
+      "data": {
+        "links": [
+          {
+            "texto": "Exames",
+            "href": "#exames"
+          },
+          {
+            "texto": "Especialidades",
+            "href": "#tratamentos"
+          },
+          {
+            "texto": "Equipe",
+            "href": "#equipe"
+          },
+          {
+            "texto": "Dúvidas",
+            "href": "#faq"
+          },
+          {
+            "texto": "Onde fica",
+            "href": "#unidades"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hero",
+      "variant": "split-motivo",
+      "data": {
+        "eyebrow": "Ribeirão Preto · SP",
+        "h1": "Consulta e exames do coração no mesmo lugar",
+        "lead": "Treze médicos, quase todos com formação no HC da USP de Ribeirão Preto, com eco, teste ergométrico, cardiopulmonar, Holter e MAPA dentro do Ribeirão Shopping.",
+        "cta": "Agendar pelo WhatsApp",
+        "ctaSecundario": "Ver os exames",
+        "ctaSecundarioHref": "#exames",
+        "cardTitulo": "Marque sua consulta",
+        "selo": "CARDIOLOGIA · RIBEIRÃO PRETO · DESDE 2017",
+        "arte": "grao"
+      }
+    },
+    {
+      "id": "fita",
+      "data": {
+        "itens": [
+          "Ecocardiograma",
+          "Teste ergométrico",
+          "Teste cardiopulmonar",
+          "Holter 24 horas",
+          "MAPA",
+          "Eletrocardiograma",
+          "Polissonografia",
+          "Ribeirão Shopping, loja 05"
+        ]
+      }
+    },
+    {
+      "id": "numeros",
+      "variant": "faixa",
+      "data": {
+        "titulo": "A Cardio Prime em números",
+        "itens": [
+          {
+            "valor": "2017",
+            "rotulo": "ano em que três cardiologistas abriram a clínica"
+          },
+          {
+            "valor": "13",
+            "rotulo": "médicos no corpo clínico",
+            "contar": 13
+          },
+          {
+            "valor": "4,9",
+            "rotulo": "de nota no Google"
+          },
+          {
+            "valor": "1.321",
+            "rotulo": "avaliações de pacientes",
+            "contar": 1321
+          }
+        ]
+      }
+    },
+    {
+      "id": "manifesto",
+      "variant": "pagina",
+      "data": {
+        "eyebrow": "Desde 2017",
+        "citacao": "A consulta, o exame e o retorno com a mesma equipe, no mesmo corredor.",
+        "texto": [
+          "A Cardio Prime começou em 2017 com Pedro Schwartzmann, Vamberto Foschini e Thiago Lascala, cardiologistas que passaram pela Faculdade de Medicina da USP de Ribeirão Preto. A ideia era juntar num só endereço a consulta e os exames que o cardiologista costuma pedir.",
+          "De lá para cá a equipe chegou a treze médicos, com quem faz ecocardiograma, quem cuida de arritmia, de insuficiência cardíaca e de reabilitação cardiopulmonar. A clínica fica no Centro Médico do Ribeirão Shopping, com estacionamento e entrada acessíveis."
+        ],
+        "imagem": "fotos/entrada.jpg",
+        "imagemAlt": "Entrada da Cardio Prime no Centro Médico do Ribeirão Shopping, com o logo da clínica sobre a porta"
+      }
+    },
+    {
+      "custom": "blocos/exames.html"
+    },
+    {
+      "id": "tratamentos",
+      "variant": "cartoes",
+      "data": {
+        "titulo": "O que a equipe acompanha",
+        "lead": "Da primeira consulta de rotina ao acompanhamento de quem já tem diagnóstico.",
+        "itens": [
+          {
+            "nome": "Consulta de rotina",
+            "descricao": "Avaliação do coração para quem quer prevenir, com pedido dos exames certos para a sua idade e histórico.",
+            "icone": "estetoscopio"
+          },
+          {
+            "nome": "Pressão alta",
+            "descricao": "Diagnóstico com MAPA quando a medida do consultório não basta, e ajuste do tratamento ao longo do tempo.",
+            "icone": "gota"
+          },
+          {
+            "nome": "Arritmias",
+            "descricao": "Palpitação, coração acelerado ou falhando. Investigação com Holter e acompanhamento com especialista em ritmo cardíaco.",
+            "icone": "batimento"
+          },
+          {
+            "nome": "Insuficiência cardíaca",
+            "descricao": "Cansaço, falta de ar e inchaço. Acompanhamento de perto, com médicos que fizeram especialização na área.",
+            "icone": "coracao"
+          },
+          {
+            "nome": "Colesterol e triglicérides",
+            "descricao": "Controle das gorduras no sangue, que entopem as artérias aos poucos e sem dar sinal.",
+            "icone": "molecula"
+          },
+          {
+            "nome": "Diabetes e coração",
+            "descricao": "Quem tem diabetes tem mais risco cardiovascular. O cardiologista acompanha junto.",
+            "icone": "nutricao"
+          },
+          {
+            "nome": "Cardiologia do esporte",
+            "descricao": "Avaliação antes de começar a treinar ou de uma prova, com teste ergométrico ou cardiopulmonar.",
+            "icone": "pulmao"
+          },
+          {
+            "nome": "Risco cirúrgico",
+            "descricao": "O check-up do coração que o cirurgião pede antes da operação, com os exames no mesmo dia quando possível.",
+            "icone": "check"
+          },
+          {
+            "nome": "Sono e pulmão",
+            "descricao": "Consulta com pneumologista (alguns planos) e polissonografia para ronco e apneia (particular).",
+            "icone": "cerebro"
+          }
+        ]
+      }
+    },
+    {
+      "id": "galeria",
+      "variant": "mosaico",
+      "data": {
+        "titulo": "Por dentro da clínica",
+        "itens": [
+          {
+            "imagem": "fotos/espera.jpg",
+            "legenda": "Sala de espera"
+          },
+          {
+            "imagem": "fotos/sala-exame.jpg",
+            "legenda": "Sala de ecocardiograma"
+          },
+          {
+            "imagem": "fotos/recepcao.jpg",
+            "legenda": "Recepção"
+          }
+        ]
+      }
+    },
+    {
+      "id": "passos",
+      "variant": "timeline",
+      "data": {
+        "titulo": "Como é a sua ida à Cardio Prime",
+        "itens": [
+          {
+            "titulo": "Agende pelo WhatsApp ou telefone",
+            "texto": "Diga se é convênio ou particular e qual exame foi pedido. A recepção encaixa no melhor dia.",
+            "icone": "agenda"
+          },
+          {
+            "titulo": "Consulta com o cardiologista",
+            "texto": "Conversa, exame físico e eletrocardiograma. Se precisar de mais, o pedido sai dali.",
+            "icone": "estetoscopio"
+          },
+          {
+            "titulo": "Exames no mesmo endereço",
+            "texto": "Eco, teste de esforço, Holter e MAPA são feitos na própria clínica, pela equipe.",
+            "icone": "batimento"
+          },
+          {
+            "titulo": "Resultado on-line e retorno",
+            "texto": "O resultado fica no portal da clínica e você volta ao médico para fechar o diagnóstico.",
+            "icone": "check"
+          }
+        ]
+      }
+    },
+    {
+      "custom": "blocos/equipe.html"
+    },
+    {
+      "id": "faq",
+      "variant": "colunas",
+      "data": {
+        "titulo": "Dúvidas frequentes",
+        "itens": [
+          {
+            "p": "Como eu agendo?",
+            "r": "Pelo WhatsApp (16) 98211-7674 ou pelo telefone (16) 3505-2294. Diga o nome do exame ou se é consulta, e se vai usar convênio."
+          },
+          {
+            "p": "Qual é o horário?",
+            "r": "De segunda a sexta, das 7h às 19h. Aos sábados, das 7h às 13h."
+          },
+          {
+            "p": "Vocês atendem convênio?",
+            "r": "Sim, mais de 25 planos, entre eles Amil, Bradesco Saúde, Cassi, SulAmérica, Omint, NotreDame Intermédica, GEAP, Saúde Petrobras, Mediservice e Vivest. A polissonografia é só particular e a pneumologia atende alguns planos. Confirme o seu pelo WhatsApp."
+          },
+          {
+            "p": "Onde fica?",
+            "r": "No Centro Médico do Ribeirão Shopping, loja 05, na Av. Cel. Fernando Ferreira Leite, 1540. A entrada e o estacionamento são acessíveis para cadeira de rodas."
+          },
+          {
+            "p": "Preciso de preparo para o exame?",
+            "r": "Alguns exames têm orientação própria, como ir de roupa confortável e tênis para o teste de esforço. Ao agendar, pergunte o preparo do seu pelo WhatsApp."
+          },
+          {
+            "p": "Como pego o resultado?",
+            "r": "Os resultados ficam no portal on-line da clínica, no endereço resultados.cardioprimecardiologia.com.br. Leve o resultado na consulta de retorno."
+          }
+        ]
+      }
+    },
+    {
+      "id": "unidades",
+      "variant": "unica",
+      "data": {
+        "titulo": "Onde fica"
+      }
+    },
+    {
+      "id": "cta-final",
+      "variant": "bloco-cheio",
+      "data": {
+        "h2": "Marque a sua consulta",
+        "lead": "Consulta, eco, teste de esforço, Holter ou MAPA. Mande o pedido médico pelo WhatsApp e a recepção encontra o horário.",
+        "cta": "Agendar pelo WhatsApp"
+      }
+    },
+    {
+      "id": "footer",
+      "variant": "completo",
+      "data": {
+        "links": [
+          {
+            "texto": "Instagram",
+            "href": "https://www.instagram.com/cardioprimeclinica/"
+          },
+          {
+            "texto": "Resultados de exames",
+            "href": "http://resultados.cardioprimecardiologia.com.br/"
+          }
+        ],
+        "aviso": "Responsável técnico: Dr. Pedro Schwartzmann, CRM-SP 121.092."
+      }
+    }
+  ]
+}
